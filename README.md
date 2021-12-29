@@ -1,6 +1,9 @@
 # Aplikacja pobierająca repozytoria określonego użytkownika GitHuba
 ## Konfiguracja
 - sklonuj repozytorium
+- przejdź do głównego folderu i zbuduj projekt używając następującego polecenia:
+./gradlew clean build
+- 
 ## Wysyłanie zapytań API
 Aplikacja posiada 2 endpointy: 
 
