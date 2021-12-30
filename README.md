@@ -3,7 +3,8 @@
 - sklonuj repozytorium
 - przejdź do głównego folderu i zbuduj projekt używając następującego polecenia:<br>
 ./gradlew clean build
-- 
+- uruchom następującą komendą:<br>
+./gradlew clean run
 ## Wysyłanie zapytań API
 Aplikacja posiada 2 endpointy: 
 
